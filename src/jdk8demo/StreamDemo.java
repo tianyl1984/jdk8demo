@@ -55,6 +55,7 @@ public class StreamDemo {
 		map.forEach((key, val) -> {
 			System.out.println(key + ":" + val);
 		});
+
 	}
 
 }
